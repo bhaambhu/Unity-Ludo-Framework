@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370396968425",
+    "firebase_url": "https://fair-ludo.firebaseio.com",
+    "project_id": "fair-ludo",
+    "storage_bucket": "fair-ludo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370396968425:android:72707758134b073ccb0778",
+        "android_client_info": {
+          "package_name": "com.bhambhoo.fairludo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370396968425-c1t0mme4h6m51f7q6nm8j46jf80b1eap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhambhoo.fairludo",
+            "certificate_hash": "053b4f64e5de3355051f9a5f41bbe06a96d33eac"
+          }
+        },
+        {
+          "client_id": "370396968425-nth2ir4l680rmca74b23c711i72vqppf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKBY79W1gvF_533okbHZTlNc9n_QpFZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370396968425-nth2ir4l680rmca74b23c711i72vqppf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
