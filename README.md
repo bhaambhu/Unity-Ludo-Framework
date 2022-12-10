@@ -11,9 +11,9 @@ https://user-images.githubusercontent.com/3491670/206826913-fe0edb52-d5a7-47fb-8
 
 It also features my own menu system which you can use for any game project.
 
-https://user-images.githubusercontent.com/3491670/206826928-d161f1a9-c80a-4543-94ad-b538ad1f6cb6.mp4
-
 I needed a menu that is minimal, easy to navigate, has subtle animations and looks slick.
+
+https://user-images.githubusercontent.com/3491670/206826928-d161f1a9-c80a-4543-94ad-b538ad1f6cb6.mp4
 
 ## Options
 
@@ -27,7 +27,7 @@ The basic gameplay and AI options accessible through the inspector:
 
 The basic graphics and sound options currently accessible through the inspector:
 
-![Capature](https://user-images.githubusercontent.com/3491670/206826841-706631a7-af5b-4f9f-9e13-5982e2f15829.JPG)
+![Graphics and Sound Options](https://user-images.githubusercontent.com/3491670/206826841-706631a7-af5b-4f9f-9e13-5982e2f15829.JPG)
 
 ## Tech
 
