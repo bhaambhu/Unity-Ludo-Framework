@@ -7,7 +7,7 @@ This is a Unity project for creating any type of Ludo game. The basic scenes are
 
 https://user-images.githubusercontent.com/3491670/206826913-fe0edb52-d5a7-47fb-859c-7ccc36fba7ce.mp4
 
-## UI
+## User Interface
 
 It also features my own menu system which you can use for any game project.
 
